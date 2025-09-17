@@ -43,7 +43,7 @@ export function About() {
                 <CardContent className="p-4 text-center">
                   <GraduationCap className="h-8 w-8 text-accent mx-auto mb-2" />
                   <h3 className="font-semibold text-primary">Education</h3>
-                  <p className="text-sm text-muted-foreground">B.Tech IT (CGPA: 7.53)</p>
+                  <p className="text-sm text-muted-foreground">B.Tech IT</p>
                   <p className="text-xs text-muted-foreground mt-1">St. Martins Engineering College</p>
                   <p className="text-xs text-muted-foreground">2023 - 2026</p>
                 </CardContent>

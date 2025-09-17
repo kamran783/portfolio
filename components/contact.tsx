@@ -43,7 +43,7 @@ export function Contact() {
     {
       icon: Phone,
       label: "Phone",
-      value: "+91 82967 044",
+      value: "+91 9182967 044",
       href: "tel:+918296704",
     },
     {
